@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //kita u billa
         //kita u kita
         //vidio promjenu
+
+        //i ja sam napravio promjenu
     }
 }
